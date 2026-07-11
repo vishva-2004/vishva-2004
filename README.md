@@ -42,13 +42,6 @@
 
 <br/>
 
-## Language and Tools
-
-<div align="center">
-<img src="network-lines.svg" width="300" alt="network animation"/>
-</div>
-
-<br/>
 
 ## GitHub Stats
 
