@@ -1,0 +1,14 @@
+<svg viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="220" height="60" rx="10" fill="#0F1210"/>
+<rect x="1.5" y="1.5" width="217" height="57" rx="9" fill="none" stroke="#39FF14" stroke-width="2" filter="url(#glow)">
+  <animate attributeName="opacity" values="0.4;1;0.4" dur="2.2s" repeatCount="indefinite"/>
+</rect>
+<circle cx="34" cy="30.0" r="14" fill="none" stroke="#39FF14" stroke-width="1.6">
+  <animate attributeName="r" values="12;15;12" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+<text x="34" y="35.0" font-family="monospace" font-size="13" fill="#39FF14" text-anchor="middle" font-weight="700">@</text>
+<text x="62" y="35.0" font-family="'JetBrains Mono',monospace" font-size="14" fill="#DFE1E5" font-weight="600">Gmail</text>
+</svg>

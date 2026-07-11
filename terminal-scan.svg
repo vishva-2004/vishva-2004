@@ -1,0 +1,11 @@
+<svg viewBox="0 0 900 46" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="46" fill="#050706"/>
+<text x="20" y="28" font-family="monospace" font-size="14" fill="#39FF14">$ fetching --stats --user=vishva-2004</text>
+<rect x="20" y="36" width="860" height="2" fill="#151A17"/>
+<rect x="20" y="36" width="60" height="2" fill="#39FF14">
+  <animate attributeName="x" values="20;800;20" dur="3.2s" repeatCount="indefinite"/>
+</rect>
+<rect x="870" y="14" width="9" height="16" fill="#39FF14">
+  <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+</rect>
+</svg>
