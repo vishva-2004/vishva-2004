@@ -42,7 +42,6 @@
 
 <br/>
 
-
 ## GitHub Stats
 
 <div align="center">
@@ -51,7 +50,10 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishva-2004&show_icons=true&theme=dark&hide_border=true&bg_color=050706&title_color=39FF14&icon_color=39FF14&text_color=DFE1E5" alt="github stats" height="165"/>
+<img src="stats-card-v2.svg" width="100%" alt="github stats" />
+
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=vishva-2004&theme=dark&hide_border=true&background=050706&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" height="165"/>
 
 <br/>

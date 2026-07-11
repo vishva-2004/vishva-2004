@@ -1,0 +1,28 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="200" rx="10" fill="#0F1210" stroke="#1E2420" stroke-width="1.5"/>
+<rect width="900" height="4" rx="2" fill="#39FF14"/>
+
+<text x="34" y="42" font-family="monospace" font-size="13" fill="#BC7CDD">/** repo.summary */</text>
+
+<g font-family="'JetBrains Mono',monospace">
+  <text x="34" y="80" font-size="14" fill="#39FF14">&gt;</text>
+  <text x="54" y="80" font-size="14" fill="#DFE1E5">5 public repositories</text>
+
+  <text x="34" y="108" font-size="14" fill="#39FF14">&gt;</text>
+  <text x="54" y="108" font-size="14" fill="#DFE1E5">3 Java Full Stack projects — all deployed and live</text>
+
+  <text x="34" y="136" font-size="14" fill="#39FF14">&gt;</text>
+  <text x="54" y="136" font-size="14" fill="#DFE1E5">1 animated developer profile (this one)</text>
+</g>
+
+<rect x="34" y="158" width="832" height="1" fill="#1E2420"/>
+
+<text x="34" y="184" font-family="monospace" font-size="12" fill="#8B8D91">top languages:</text>
+<rect x="150" y="172" width="10" height="10" rx="2" fill="#ED8B00"/>
+<text x="166" y="181" font-family="monospace" font-size="12" fill="#DFE1E5">Java</text>
+<rect x="220" y="172" width="10" height="10" rx="2" fill="#E34F26"/>
+<text x="236" y="181" font-family="monospace" font-size="12" fill="#DFE1E5">HTML</text>
+</svg>
